@@ -122,10 +122,6 @@ Explore my GitHub repositories for more experiments, learning projects, and impl
 <img src="https://streak-stats.demolab.com?user=ankan7703&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankan7703&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
 ---
 
 ## 📚 Current Learning Focus
@@ -150,5 +146,4 @@ I'm happy to connect with developers, collaborate on practical projects, and exp
 <div align="center">
 <i>Learn consistently. Build useful things. Improve one iteration at a time.</i>
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=ankan7703&style=flat-square&color=0E7490" alt="Profile views counter" />
 </div>
