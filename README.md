@@ -35,7 +35,7 @@ I enjoy working with data, experimenting with machine-learning models, and build
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python, Java, HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python, Java" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
